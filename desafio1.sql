@@ -92,7 +92,7 @@ VALUES
 ('Paulo Freire', 19, '2018-02-14', 3),
 ('Bell Hooks', 26, '2018-01-05', 3),
 ('Christopher Alexander', 85, '2019-06-05', 4),
-('Judith  Butler', 45, '2020-05-13', 4),
+('Judith Butler', 45, '2020-05-13', 4),
 ('Jorge Amado', 58, '2017-02-17', 4);
 
 INSERT INTO SpotifyClone.musicas (nome_musica, duracao_segundos, album_id)
