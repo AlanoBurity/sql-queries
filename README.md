@@ -34,4 +34,10 @@ a partir desse momento utilizei queries para praticar a linguagem SQL.
 - Acessando dados de múltiplas tabelas usando ```INNER JOIN```, ```LEFT JOIN```, ```RIGHT JOIN```;
 - Quando e como usar ```SELF JOIN```;
 
+### Tabela não normalizada
 
+![Logo](https://uploaddeimagens.com.br/images/004/044/889/original/Screenshot_13.png?1664581704)
+### Tabela  normalizada
+![Logo](https://uploaddeimagens.com.br/images/004/044/894/full/Screenshot_14.png?1664581900)
+
+Link para a tabela completa: https://docs.google.com/spreadsheets/d/1FkV7faTQa0R18NWmZrvHCF6Zhf5A4_aPt7nZa2E-NPQ/edit?usp=sharing
