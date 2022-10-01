@@ -6,7 +6,7 @@ services:
     # Imagem base do container
     image: node:16
     # Nome do container para facilitar execução
-    container_name: one_for_all
+    container_name: sql_queries
     # Mesmo que `docker run -t`
     tty: true
     # Mesmo que `docker run -i`
@@ -35,7 +35,7 @@ services:
 
   # Serviço que irá rodar o banco de dados
   db:
-    container_name: one_for_all_db
+    container_name: sql_queries_db
     image: mysql:8.0.23
     restart: always
     # Lista de portas mapeadas de dentro para fora do container
